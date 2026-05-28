@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordave",
+        "uuid": 14287476,
+        "checksum": "bakvj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
